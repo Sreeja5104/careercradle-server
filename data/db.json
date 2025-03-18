@@ -1,16 +1,21 @@
 {
   "users": [
     {
-      "personal": {
-        "Full Name": "sreeja",
-        "Email": "sendmail2dk@gmail.com",
-        "Password" : "123456"
-      },
-      "credentials": {
-        "username": "sreeja",
-        "password": "123456"
-      },
-      "id": 1
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "you@example.com",
+      "password": "password123"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "location": "Remote",
+      "description": "Develop and maintain web applications.",
+      "requirements": ["React", "Spring Boot", "MongoDB"],
+      "salary": "80,000 - 100,000 USD"
     }
   ]
 }
