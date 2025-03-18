@@ -1,5 +1,16 @@
 {
-    "users": [
-        
-    ]
-  }
+  "users": [
+    {
+      "personal": {
+        "Full Name": "sreeja",
+        "Email": "sendmail2dk@gmail.com",
+        "Password" : "123456"
+      },
+      "credentials": {
+        "username": "sreeja",
+        "password": "123456"
+      },
+      "id": 1
+    }
+  ]
+}
