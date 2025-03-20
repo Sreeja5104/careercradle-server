@@ -1,15 +1,9 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "fullName": "John Doe",
-      "email": "you@example.com",
-      "password": "password123"
-    }
-  ],
+  "users": [],
   "jobs": [
     {
       "id": 1,
+      "name":"jhon",
       "title": "Software Engineer",
       "company": "TechCorp",
       "location": "Remote",
